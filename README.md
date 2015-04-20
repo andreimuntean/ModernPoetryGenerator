@@ -1,0 +1,2 @@
+# ModernPoetryGenerator
+Generates modern poetry.
